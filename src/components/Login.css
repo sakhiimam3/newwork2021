@@ -1,0 +1,65 @@
+.loginbtn{
+    margin-left: 90px;
+}
+
+input{
+      width: 200px;
+      padding: 5px;
+}
+label{
+      font-size: 23px;
+      font-family: 'Courier New', Courier, monospace;
+      color: rgb(1, 1, 17);
+}
+
+.head{
+        height: 100px;
+}
+
+.data{
+          background-color: rgb(137, 137, 151);
+          color: oldlace;
+          height: 600px;
+      padding: 10px;
+          margin: auto;
+          
+        
+}
+
+form{
+        width:100%;
+        background-color: blanchedalmond;       
+        font-size: 23px;
+       height: 450px;
+       text-align: center;
+       margin: auto;
+       width: 500px;
+       margin-top: 40px;
+}
+table{
+      
+      border: 2px solid white;
+      width: 420px;
+      text-align: center;
+      margin-top: 80px;
+      margin: auto;
+}
+
+.bottom-div{
+        margin-top: 50px;
+        
+}
+
+.header{
+          width: 100%;
+          height: 200px;
+          background:linear-gradient(blue,green,red)
+}
+
+
+@media only screen and (max-width: 500px) {
+      table {
+           width: 350px;
+      }
+      
+    }
